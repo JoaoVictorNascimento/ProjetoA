@@ -1,0 +1,4 @@
+Baixe o formato de artigo da SBC: 
+http://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos
+
+Pode ser o OpenOffice.org ou em Latex.
