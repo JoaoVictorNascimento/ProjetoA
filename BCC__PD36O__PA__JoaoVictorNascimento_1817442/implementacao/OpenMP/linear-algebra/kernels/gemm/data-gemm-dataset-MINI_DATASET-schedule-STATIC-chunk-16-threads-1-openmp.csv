@@ -1,0 +1,60 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 477836, 
+0.000494
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 477537, 
+0.000496
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 471837, 
+0.000490
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 449335, 
+0.000467
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 470136, 
+0.000486
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 433333, 
+0.000451
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 470336, 
+0.000488
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 485837, 
+0.000501
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 467236, 
+0.000485
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 470936, 
+0.000486
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 473436, 
+0.000494
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 471836, 
+0.000490
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 474836, 
+0.000490
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 470835, 
+0.000486
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 470836, 
+0.000489
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 493537, 
+0.000508
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 471336, 
+0.000487
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 476136, 
+0.000491
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 471135, 
+0.000489
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = MINI_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 64, NJ = 64, NK = 64, ORIG = 0, OMP = 477936, 
+0.000496

@@ -1,0 +1,4 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 06/11/2020-00:17:22
+Experiment 'schedule-test', execution 2 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 06/11/2020-00:17:23
+Experiment 'schedule-test', execution 3 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 06/11/2020-00:17:25
+Experiment 'schedule-test', execution 4 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 06/11/2020-00:17:26

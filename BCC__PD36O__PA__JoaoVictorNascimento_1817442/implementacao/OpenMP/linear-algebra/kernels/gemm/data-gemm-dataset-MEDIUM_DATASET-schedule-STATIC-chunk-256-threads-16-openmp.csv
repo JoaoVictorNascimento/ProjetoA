@@ -1,0 +1,30 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 186566249, 
+0.186606
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 185554271, 
+0.185591
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 192088670, 
+0.192117
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 187635530, 
+0.187674
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 186822968, 
+0.186862
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 190420243, 
+0.190462
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 191538429, 
+0.191576
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 188800719, 
+0.188836
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 188407089, 
+0.188451
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = MEDIUM_DATASET, schedule = STATIC, chunk_size = 256, num_threads = 16,
+version = OMP, num_threads = 16, NI = 512, NJ = 512, NK = 512, ORIG = 0, OMP = 186352532, 
+0.186390

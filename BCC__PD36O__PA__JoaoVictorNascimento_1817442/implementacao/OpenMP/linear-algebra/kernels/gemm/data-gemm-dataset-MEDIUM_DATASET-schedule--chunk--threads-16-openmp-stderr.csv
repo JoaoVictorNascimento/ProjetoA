@@ -1,0 +1,10 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:02
+Experiment 'schedule-test', execution 2 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:02
+Experiment 'schedule-test', execution 3 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:02
+Experiment 'schedule-test', execution 4 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:03
+Experiment 'schedule-test', execution 5 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:03
+Experiment 'schedule-test', execution 6 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:03
+Experiment 'schedule-test', execution 7 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:03
+Experiment 'schedule-test', execution 8 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:03
+Experiment 'schedule-test', execution 9 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:04
+Experiment 'schedule-test', execution 10 of gemm with dataset: MEDIUM_DATASET, schedule: , chunk_size: , threads: 16 start at 06/11/2020-01:26:04

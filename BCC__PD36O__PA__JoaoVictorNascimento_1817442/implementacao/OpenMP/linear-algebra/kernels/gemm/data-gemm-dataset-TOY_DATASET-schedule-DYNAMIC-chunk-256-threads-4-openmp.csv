@@ -1,0 +1,60 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 56104, 
+0.000075
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 47204, 
+0.000066
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 52404, 
+0.000071
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 51104, 
+0.000068
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 44503, 
+0.000065
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 45204, 
+0.000066
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 64404, 
+0.000083
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 40803, 
+0.000061
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 47603, 
+0.000064
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 51804, 
+0.000081
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 54304, 
+0.000080
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 49404, 
+0.000070
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 65605, 
+0.000087
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 40903, 
+0.000065
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 43303, 
+0.000059
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 44304, 
+0.000065
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 288522, 
+0.000327
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 49004, 
+0.000069
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 48804, 
+0.000064
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = TOY_DATASET, schedule = DYNAMIC, chunk_size = 256, num_threads = 4,
+version = OMP, num_threads = 4, NI = 32, NJ = 32, NK = 32, ORIG = 0, OMP = 42703, 
+0.000059

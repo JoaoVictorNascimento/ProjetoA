@@ -1,0 +1,4 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: MEDIUM_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 06/11/2020-00:25:43
+Experiment 'schedule-test', execution 2 of gemm with dataset: MEDIUM_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 06/11/2020-00:25:44
+Experiment 'schedule-test', execution 3 of gemm with dataset: MEDIUM_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 06/11/2020-00:25:44
+Experiment 'schedule-test', execution 4 of gemm with dataset: MEDIUM_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 06/11/2020-00:25:44
