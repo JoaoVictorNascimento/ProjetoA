@@ -1,0 +1,10 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-05:56:56
+Experiment 'schedule-test', execution 2 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-06:46:23
+Experiment 'schedule-test', execution 3 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-07:35:43
+Experiment 'schedule-test', execution 4 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-08:25:22
+Experiment 'schedule-test', execution 5 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-09:14:35
+Experiment 'schedule-test', execution 6 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-10:04:03
+Experiment 'schedule-test', execution 7 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-10:53:27
+Experiment 'schedule-test', execution 8 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-11:43:06
+Experiment 'schedule-test', execution 9 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-12:32:29
+Experiment 'schedule-test', execution 10 of gemm with dataset: HUGE_DATASET, schedule: GUIDED, chunk_size: 256, threads: 16 start at 04/11/2020-13:22:02

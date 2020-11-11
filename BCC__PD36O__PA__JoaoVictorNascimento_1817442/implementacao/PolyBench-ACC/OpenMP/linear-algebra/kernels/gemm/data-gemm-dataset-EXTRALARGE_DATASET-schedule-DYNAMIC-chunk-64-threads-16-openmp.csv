@@ -1,0 +1,30 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 337417165031, 
+337.417224
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 338757095070, 
+338.757138
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 337133038645, 
+337.133076
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 334693102051, 
+334.693160
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 336567052479, 
+336.567092
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 335928253258, 
+335.928290
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 334524822758, 
+334.524902
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 332810331561, 
+332.810370
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 340444701385, 
+340.444746
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = DYNAMIC, chunk_size = 64, num_threads = 16,
+version = OMP, num_threads = 16, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 338153552860, 
+338.153591

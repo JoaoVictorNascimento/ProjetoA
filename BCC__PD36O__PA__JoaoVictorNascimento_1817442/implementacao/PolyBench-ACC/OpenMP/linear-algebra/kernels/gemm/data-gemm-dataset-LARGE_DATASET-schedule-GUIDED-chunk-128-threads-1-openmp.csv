@@ -1,0 +1,30 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 72609360408, 
+72.609386
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 67501783649, 
+67.501813
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 76091625753, 
+76.091652
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 66246454756, 
+66.246483
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 82755665492, 
+82.755688
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 50766356353, 
+50.766382
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 65399513342, 
+65.399541
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 65537915356, 
+65.537941
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 73991588947, 
+73.991618
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = LARGE_DATASET, schedule = GUIDED, chunk_size = 128, num_threads = 1,
+version = OMP, num_threads = 1, NI = 2048, NJ = 2048, NK = 2048, ORIG = 0, OMP = 67609464159, 
+67.609492

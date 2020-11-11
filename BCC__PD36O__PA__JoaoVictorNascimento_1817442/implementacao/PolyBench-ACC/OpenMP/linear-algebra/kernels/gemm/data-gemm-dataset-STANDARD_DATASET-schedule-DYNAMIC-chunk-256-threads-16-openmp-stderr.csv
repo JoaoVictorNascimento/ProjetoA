@@ -1,0 +1,10 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:03
+Experiment 'schedule-test', execution 2 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:04
+Experiment 'schedule-test', execution 3 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:06
+Experiment 'schedule-test', execution 4 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:07
+Experiment 'schedule-test', execution 5 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:09
+Experiment 'schedule-test', execution 6 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:10
+Experiment 'schedule-test', execution 7 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:12
+Experiment 'schedule-test', execution 8 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:13
+Experiment 'schedule-test', execution 9 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:14
+Experiment 'schedule-test', execution 10 of gemm with dataset: STANDARD_DATASET, schedule: DYNAMIC, chunk_size: 256, threads: 16 start at 29/10/2020-03:51:16

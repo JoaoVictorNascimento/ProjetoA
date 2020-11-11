@@ -1,0 +1,10 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-11:34:00
+Experiment 'schedule-test', execution 2 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-11:40:14
+Experiment 'schedule-test', execution 3 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-11:46:15
+Experiment 'schedule-test', execution 4 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-11:52:06
+Experiment 'schedule-test', execution 5 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-11:58:03
+Experiment 'schedule-test', execution 6 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-12:03:56
+Experiment 'schedule-test', execution 7 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-12:10:04
+Experiment 'schedule-test', execution 8 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-12:16:11
+Experiment 'schedule-test', execution 9 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-12:21:52
+Experiment 'schedule-test', execution 10 of gemm with dataset: EXTRALARGE_DATASET, schedule: STATIC, chunk_size: 64, threads: 8 start at 02/11/2020-12:27:43

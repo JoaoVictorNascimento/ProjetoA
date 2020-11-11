@@ -1,0 +1,49 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 342341622331, 
+342.341661
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 342640523262, 
+342.640561
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 338250166950, 
+338.250212
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 338440318547, 
+338.440356
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 331421946813, 
+331.421983
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 336198589797, 
+336.198624
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 372286051171, 
+372.286088
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 371770269544, 
+371.770307
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 372098488172, 
+372.098530
+exp = schedule-test, execution = 4, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 374972769879, 
+374.972807
+exp = schedule-test, execution = 5, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 368187684539, 
+368.187724
+exp = schedule-test, execution = 6, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 374705207279, 
+374.705247
+exp = schedule-test, execution = 7, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 377954029471, 
+377.954067
+exp = schedule-test, execution = 8, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 377556779946, 
+377.556815
+exp = schedule-test, execution = 9, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 381738140063, 
+381.738184
+exp = schedule-test, execution = 10, benchmark = gemm, size_of_data = EXTRALARGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 8,
+version = OMP, num_threads = 8, NI = 4096, NJ = 4096, NK = 4096, ORIG = 0, OMP = 375010583279, 
+375.010620

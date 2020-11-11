@@ -1,0 +1,10 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:51
+Experiment 'schedule-test', execution 2 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:52
+Experiment 'schedule-test', execution 3 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:53
+Experiment 'schedule-test', execution 4 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:55
+Experiment 'schedule-test', execution 5 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:56
+Experiment 'schedule-test', execution 6 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:58
+Experiment 'schedule-test', execution 7 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:41:59
+Experiment 'schedule-test', execution 8 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:42:00
+Experiment 'schedule-test', execution 9 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:42:02
+Experiment 'schedule-test', execution 10 of gemm with dataset: STANDARD_DATASET, schedule: STATIC, chunk_size: 64, threads: 4 start at 29/10/2020-03:42:03

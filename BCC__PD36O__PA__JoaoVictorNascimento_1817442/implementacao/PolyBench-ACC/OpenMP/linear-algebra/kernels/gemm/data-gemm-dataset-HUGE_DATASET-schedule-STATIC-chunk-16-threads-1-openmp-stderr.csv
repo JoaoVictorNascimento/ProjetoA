@@ -1,0 +1,3 @@
+Experiment 'schedule-test', execution 1 of gemm with dataset: HUGE_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 04/11/2020-21:48:27
+Experiment 'schedule-test', execution 2 of gemm with dataset: HUGE_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 04/11/2020-23:43:25
+Experiment 'schedule-test', execution 3 of gemm with dataset: HUGE_DATASET, schedule: STATIC, chunk_size: 16, threads: 1 start at 05/11/2020-01:37:04

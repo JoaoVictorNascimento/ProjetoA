@@ -1,0 +1,7 @@
+exp = schedule-test, execution = 1, benchmark = gemm, size_of_data = HUGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 8192, NJ = 8192, NK = 8192, ORIG = 0, OMP = 6897065479964, 
+6897.065505
+exp = schedule-test, execution = 2, benchmark = gemm, size_of_data = HUGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,
+version = OMP, num_threads = 1, NI = 8192, NJ = 8192, NK = 8192, ORIG = 0, OMP = 6818548878452, 
+6818.548908
+exp = schedule-test, execution = 3, benchmark = gemm, size_of_data = HUGE_DATASET, schedule = STATIC, chunk_size = 16, num_threads = 1,

@@ -11,10 +11,10 @@ echo "Executing test for $benchmark, start at `date +'%d/%m/%Y-%T'`"
 # Tamanhos dos dados considerados pelos benchmarks.
 # TOY_DATASET MINI_DATASET TINY_DATASET SMALL_DATASET MEDIUM_DATASET STANDARD_DATASET 
 # LARGE_DATASET EXTRALARGE_DATASET HUGE_DATASET 
-for size_of_data in STANDARD_DATASET LARGE_DATASET EXTRALARGE_DATASET HUGE_DATASET; do
-	for num_threads in 1 2 4 8 16; do
-		for omp_schedule in STATIC DYNAMIC GUIDED; do
-			for chunk_size in 16 32 64 128 256; do
+for size_of_data in EXTRALARGE_DATASET; do
+	for num_threads in 16 ; do
+		for omp_schedule in DYNAMIC GUIDED; do
+			for chunk_size in 16 32 64 128; do
 				echo "Compiling ${benchmark} with dataset: ${size_of_data}, schedule: ${omp_schedule}, chunk: ${chunk_size}, threads: ${num_threads}."
 				# make POLYBENCH_OPTIONS="-DPOLYBENCH_TIME -DTOY_DATASET" OMP_CONFIG="-DOPENMP_SCHEDULE_DYNAMIC -DOPENMP_CHUNK_SIZE=64 -DOPENMP_NUM_THREADS=24"
 				make POLYBENCH_OPTIONS="-DPOLYBENCH_TIME -D${size_of_data}" OMP_CONFIG="-DOPENMP_SCHEDULE_${omp_schedule} -DOPENMP_CHUNK_SIZE=${chunk_size} -DOPENMP_NUM_THREADS=${num_threads}"
